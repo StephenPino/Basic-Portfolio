@@ -4,6 +4,7 @@ body {
 	padding: 0;
 	background-image: url(../images/background/halftone.png);
 	width: 100%;
+	color: #777777;
 }
 
 header {
@@ -55,12 +56,36 @@ p {
 
 }
 
+input[type=submit] {
+	padding: 10px 20px;
+	color: #ffffff;
+	background-color: #4aaaa5;
+	border: 0 none;
+}
+
+.formBox {
+	width: 605px;
+	border: 1px solid gray;
+}
+
 .page-wrap {
 	width: 950px;
 }
 .portfolioImage {
 	width: 275px;
 	height: 175px;
+}
+
+#mainContainerContact {
+	height: 600px;
+}
+
+#messageBox {
+	height: 250px;
+}
+
+#contactMain {
+	margin-left: 20px;
 }
 
 #headerbar {
