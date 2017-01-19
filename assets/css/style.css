@@ -19,11 +19,17 @@ h1 {
 	float:left;
 	margin-left: 0;
 	margin-top: 0;
+	font-size: 32px;
+	font-weight: bold;
+	padding-bottom:  23px;
 }
 
 h2 {
 	font-family: "Georgia", "Times", "Times New Roman", "serif";
 	color: #4aaaa5;
+	font-size: 26px;
+	font-weight: bold;
+	margin-top: 20px;
 }
 
 h3 {
@@ -32,7 +38,7 @@ h3 {
 	color: #ffffff;
 	padding: 15px;
 	position: relative;
-	top: 185px;
+	top: 165px;
 }
 ul {
     margin:0px;
@@ -121,7 +127,7 @@ textarea {
 	border-bottom: 3px solid #cccccc;
 	margin-left: 20px;
 	margin-right: 20px;
-	margin-bottom: 30px;
+	margin-bottom: 60px;
 
 }
 
@@ -171,6 +177,7 @@ textarea {
 
 #mainContainerPortfolio {
 	height: 785px;
+	
 }
 
 #connectContainer {
@@ -232,21 +239,21 @@ textarea {
 	clear: both;
 	float: left;
 	position: relative;
-	bottom: 130px;
+	bottom: 90px;
 	left: 30px;
 }
 
 #rutgers {
 	float: left;
 	position: relative;
-	bottom: 130px;
+	bottom: 90px;
 	left: 70px;
 }
 
 #rock {
 	clear: both;
 	position: relative;
-	bottom: 160px;
+	bottom: 100px;
 	left: 30px;
 }
 
