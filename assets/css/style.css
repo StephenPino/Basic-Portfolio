@@ -176,6 +176,7 @@ textarea {
 
 #rightBorder {
 	border-right: 1px solid #777777;
+	
 
 }
 
@@ -234,9 +235,12 @@ textarea {
 	margin-bottom: 30px;
 }
 
+
+
 #logoContainer {
-	margin-left: 55px;
+	margin-left: 28px;
 }
+
 
 .icon {
 	width: 50px;
