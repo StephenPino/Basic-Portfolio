@@ -80,8 +80,9 @@ textarea {
 
 .page-wrap {
 	width: 950px;
-	margin: 0 auto;
-	margin-bottom: -50px;
+	margin: 0 auto -50px;
+	min-height: 100%;
+	
 }
 .portfolioImage {
 	width: 275px;
@@ -278,13 +279,10 @@ html, body {
 	height: 100%;
 }
 
-.page-wrap:after {
-	content: "";
-	display: block;
 
-}
 
-.footer, .page-wrap:after {
+.footer, .push {
 	height: 50px;
+
 
 }
