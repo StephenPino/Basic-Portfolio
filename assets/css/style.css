@@ -89,6 +89,17 @@ input[type=text] {
    
 }
 
+input[type=email] {
+	width: 96.5%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+   
+}
+
 textarea {
 	resize: none;
 	width: 100%;
@@ -185,6 +196,7 @@ textarea {
 #leftBorder {
 	border-left: 1px solid #777777;
 }
+
 #headerContainer {
 	background-color: #ffffff;
 	border-bottom: 3px solid #cccccc;	
